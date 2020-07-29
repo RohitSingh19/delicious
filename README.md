@@ -1,5 +1,5 @@
 # Delicious
-A Recipe web-app built using Vanilla JavaScript, HTML, and css.
+A Recipe web-app built using Vanilla JavaScript, HTML, and CSS.
 
 To run the project download the code and run npm install to install the dependencies and run npm start.
 
